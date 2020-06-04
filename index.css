@@ -34,13 +34,13 @@ font-family: 'Karla', sans-serif;
 
 
 
-@media(max-width:23.4375rem){
-#title p{
-	margin:0rem 0rem;
-	border: 1px solid black;
-	width: 25rem;
-}
+@media(max-width:32rem){
 
+#title p{
+	color: hsl(218, 22%, 67%);
+	margin-right:0rem;
+	font-size: 1.5rem;
+}
 
 
 

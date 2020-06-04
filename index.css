@@ -1,0 +1,49 @@
+body{
+font-family: 'Karla', sans-serif;
+}
+
+
+
+	
+
+
+#title{
+	padding-top:2rem;
+}
+#title h5{
+	margin-top:2rem;
+	color:hsl(71, 73%, 54%);
+	font-size: 1.5rem;
+}
+#title p{
+	color: hsl(218, 22%, 67%);
+	margin-right: 35rem;
+	font-size: 1.5rem;
+}
+#title h3{
+	color: hsl(179, 62%, 43%);
+	font-size:1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+@media(max-width:23.4375rem){
+#title p{
+	margin:0rem 0rem;
+	border: 1px solid black;
+	width: 25rem;
+}
+
+
+
+
+
+
+}
